@@ -14,3 +14,27 @@
       del data1[k]
      else:
       data1[k]=v2
+      
+5c)TEST CASE 1:
+  4
+  1 2
+  3 3 
+  3 8
+  4 9
+  2 
+  3 3
+  4 4
+   
+   TESET CASE 2:
+   4
+   1 2
+   2 2 
+   3 3
+   4 19
+   2
+   3 3
+   4 19
+   
+   TEST CASE 3:
+   The test case written in 5a, breaks the initially written code can be written.
+   
